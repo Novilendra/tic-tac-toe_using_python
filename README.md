@@ -1,3 +1,3 @@
-# tik-tac-toe_using_python
+# code is in tik.py format, you can download and check the code
 Tik Tac Toe made just for fun using python code
-#code is in tik.py file download and check the code
+
